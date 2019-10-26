@@ -31,21 +31,20 @@ class MapSum {
             TrieNode t;
             if(children.containsKey(c)){
                     t = children.get(c);
-                    t.sum+=value;
+                    t.sum+=value;//[1]
             }else{
-                t = new TrieNode(c,value);
+                t = new TrieNode(c,value);//[2]
                 children.put(c,t);
             }
  
             children = t.children;
  
-            //set leaf node
             if(i==word.length()-1)
                 t.isLeaf = true;    
         }
     }
     
-    public TrieNode searchNode(String str){
+    public TrieNode searchNode(String str){//
         Map<Character, TrieNode> children = root.children; 
         TrieNode t = null;
         for(int i=0; i<str.length(); i++){
@@ -61,7 +60,7 @@ class MapSum {
         return t;
     }
     
-    public int sum(String word) {
+    public int sum(String word) {//[3]
         TrieNode t = searchNode(word);
  
         if(t != null) 
