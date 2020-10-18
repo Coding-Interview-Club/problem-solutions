@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array-Game-Rounds-Winner/Array-Game-Rounds-Winner.iml" filepath="$PROJECT_DIR$/Array-Game-Rounds-Winner/Array-Game-Rounds-Winner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem-solutions.iml" filepath="$PROJECT_DIR$/problem-solutions.iml" />
+    </modules>
+  </component>
+</project>
