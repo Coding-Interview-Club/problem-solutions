@@ -141,7 +141,7 @@
     },
     "1227":{
         "author":"Enoumy",
-        "name":"Airplane Seatt Assignment Probability",
+        "name":"Airplane Seat Assignment Probability",
         "path":"/airplane-seat-assignment-probability/Solution.java"
     },
     "445":{
@@ -173,5 +173,35 @@
         "author":"rimesta21",
         "name":"Find the Winner of an Array Game",
         "path":"/Array-Game-Rounds-Winner/src/main.java"
+    },
+    "42":{
+        "author":"xm94",
+        "name":"Trapping Rain Water",
+        "path":"/trapping-rain-water/Soluton.java"
+    },
+    "883":{
+        "author":"xm94",
+        "name":"Projection Area of 3D Shapes",
+        "path":"/projection-area-of-3d-shapes/Solution.java"
+    },
+    "781":{
+        "author":"xm94",
+        "name":"Rabbits in Forest",
+        "path":"/rabbits-in-forest/Solution.java"
+    },
+    "334":{
+        "author":"xm94",
+        "name":"Increasing Triplet Subsequence",
+        "path":"/increasing-triplet-subsequence/Solution.java"
+    },
+    "950":{
+        "author":"xm94",
+        "name":"Reveal Cards In Increasing Order",
+        "path":"/reveal-cards-in-increasing-order/Solution.java"
+    },
+    "1282":{
+        "author":"xm94",
+        "name":"Group the People Given the Group Size They Belong To",
+        "path":"/group-people-given-group-size/Solution.java"
     }
 }
